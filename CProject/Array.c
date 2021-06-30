@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(void) {
-	int score[5][6];
+	int score[5][6];  
 	int i, j;
 	for (i = 0; i < 5; i++) {
 		printf("ÇÐ¹Ý:"); scanf_s("%d", &score[i][0]);
